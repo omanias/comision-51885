@@ -53,13 +53,15 @@ alert("Nombre del alumno" + " " + nombreAlumno); */
 * MULTIPLICACION
 */
 
-/* let primerNumero = parseInt(prompt("Ingrese un numero"));
+/*  let primerNumero = parseInt(prompt("Ingrese un numero"));
 let segundoNumero = Number(prompt("Ingrese otro numero"));
 
 let suma = primerNumero + segundoNumero;
 let resta = primerNumero - segundoNumero;
 let multiplicacion = primerNumero * segundoNumero;
 let division = primerNumero / segundoNumero;
+
+console.log(division)
 
 alert(division); */
 
