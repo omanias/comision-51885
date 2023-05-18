@@ -79,6 +79,11 @@ console.log(otroArray) */
 /* const listaNombres = []
 let cantidad = 5
 
+/* This code is prompting the user to enter a name and storing it in the `entrada` variable. Then, it
+is converting the name to uppercase and pushing it into the `listaNombres` array. The `do-while`
+loop will continue to prompt the user to enter a name until the length of the `listaNombres` array
+is equal to the `cantidad` variable. */
+/*
 do {
     let entrada = prompt("Ingrese nombre")
     listaNombres.push(entrada.toUpperCase())
@@ -107,11 +112,13 @@ console.log(array) */
 
 // FOR OF de objetos
 
+/* Iterating over the `carrito` array of objects and logging the `id` and `producto` properties of each
+object. */
 for (const producto of carrito) {
     console.log(producto.id)
     console.log(producto.producto)
 }
- */
+
 
 
 
